@@ -2,6 +2,6 @@
 
 Simple program that allows people to vote on the desired AC temperature
 
-# Run
+## Run
 
 $ ruby main.rb
